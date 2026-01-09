@@ -24,13 +24,16 @@ A abordagem une o rigor da investigação científica com as ferramentas moderna
 3. **Equilíbrio Químico:** A análise de outliers revelou amostras com teores de açúcar e cloretos que fogem do padrão de mercado, sugerindo nichos de produção ou falhas de processo.
 
 ---
+
 ## 📬 Contato
 
+Gostou desta análise? Vamos nos conectar no LinkedIn!
+
 <p align="left">
-  <a href="www.linkedin.com/andressa-correa-dados" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:dressantoscorrea@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/andressa-correa-dados" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+---
+📄 **Licença** Este projeto utiliza a licença MIT.
